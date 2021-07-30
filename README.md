@@ -1,4 +1,4 @@
-# Slot Booker API
+# Slot Booker 
 
 A React native project for Booking slots in hour intervals
 
