@@ -1,6 +1,7 @@
 # Slot Booker API
 
 A React native project for Booking slots in hour intervals
+![Demo GIF](https://github.com/ZentPeople/digitalTrons_slots/raw/main/Demo/demo.gif)
 
 ## Installation
 
