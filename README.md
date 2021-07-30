@@ -4,7 +4,7 @@ A React native project for Booking slots in hour intervals
 
 ## Installation
 
-Clone the repository and Install the dependencies and devDependencies .
+Clone the repository and Install the dependencies.
 
 ```
 npm install
@@ -16,6 +16,12 @@ To run app in iOS
 
 ```
 cd ios && pod install && cd ..
+```
+
+Change the Base API url in
+
+```
+apis/slotsApi.js
 ```
 
 ## Starting metro server
